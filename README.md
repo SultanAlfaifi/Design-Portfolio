@@ -84,7 +84,7 @@
 
 ### 📊 Presentation Designs
 
-> Branded presentation decks designed for academic and professional contexts — including UQU × Tuwaiq Academy and Atlal pitch deck.
+> Branded presentation decks designed for academic and professional contexts — including UQU × Tuwaiq Academy and Tabayun pitch deck.
 
 <table>
 <tr>
