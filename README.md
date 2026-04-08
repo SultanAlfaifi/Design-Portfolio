@@ -72,11 +72,12 @@
 
 > A web platform showcasing Saudi Arabia's cultural and natural heritage registered with UNESCO — material and intangible heritage.
 
+<img src="images/unesco-1.png" width="100%"/>
+
 <table>
 <tr>
-<td width="33%"><img src="images/unesco-1.png" width="100%"/></td>
-<td width="33%"><img src="images/unesco-2.png" width="100%"/></td>
-<td width="33%"><img src="images/unesco-3.png" width="100%"/></td>
+<td width="50%"><img src="images/unesco-2.png" width="100%"/></td>
+<td width="50%"><img src="images/unesco-3.png" width="100%"/></td>
 </tr>
 </table>
 
