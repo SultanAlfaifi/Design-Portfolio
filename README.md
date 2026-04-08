@@ -61,8 +61,8 @@
 
 <table>
 <tr>
-<td width="50%"><img src="images/atlal-1.png" width="100%"/></td>
-<td width="50%"><img src="images/atlal-2.png" width="100%"/></td>
+<td width="50%"><img src="images/atlal-1.jpg" width="100%"/></td>
+<td width="50%"><img src="images/atlal-2.jpg" width="100%"/></td>
 </tr>
 </table>
 
@@ -84,16 +84,16 @@
 
 ### 📊 Presentation Designs
 
-> Branded presentation decks designed for academic and professional contexts — including UQU × Tuwaiq Academy and Atlal pitch deck.
+> Branded presentation decks designed for academic and professional contexts — including UQU × Tuwaiq Academy and Tabayun pitch deck.
 
 <table>
 <tr>
-<td width="50%"><img src="images/pres-1.png" width="100%"/></td>
+<td width="50%"><img src="images/pres-1.jpg" width="100%"/></td>
 <td width="50%"><img src="images/pres-2.png" width="100%"/></td>
 </tr>
 <tr>
 <td width="50%"><img src="images/pres-3.png" width="100%"/></td>
-<td width="50%"><img src="images/pres-4.png" width="100%"/></td>
+<td width="50%"><img src="images/pres-4.jpg" width="100%"/></td>
 </tr>
 </table>
 
