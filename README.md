@@ -29,14 +29,13 @@
 
 > A web platform that helps users understand differences between Saudi laws and international equivalents through side-by-side AI-powered comparisons.
 
+<img src="images/tabayn-1.png" width="100%"/>
+
 <table>
 <tr>
-<td width="50%"><img src="images/tabayn-1.png" width="100%"/></td>
-<td width="50%"><img src="images/tabayn-2.png" width="100%"/></td>
-</tr>
-<tr>
-<td width="50%"><img src="images/tabayn-3.png" width="100%"/></td>
-<td width="50%"><img src="images/tabayn-4.png" width="100%"/></td>
+<td width="33%"><img src="images/tabayn-2.png" width="100%"/></td>
+<td width="33%"><img src="images/tabayn-3.png" width="100%"/></td>
+<td width="33%"><img src="images/tabayn-4.png" width="100%"/></td>
 </tr>
 </table>
 
